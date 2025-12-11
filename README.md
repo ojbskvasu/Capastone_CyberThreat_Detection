@@ -1,4 +1,4 @@
-# Capastone_CyberThreat_Detection
+# Capastone Project : CyberThreat Detection
 
 This notebook details a comprehensive analysis of  of network intrusion detection using the `cyberfeddefender_dataset.csv` dataset, focusing on building a classification model to detect network intrusions. The process covers data preparation, exploratory data analysis, feature engineering, and baseline model development and evaluation.
 
