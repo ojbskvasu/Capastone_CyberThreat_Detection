@@ -2,6 +2,10 @@
 
 This notebook details a comprehensive analysis of  of network intrusion detection using the `cyberfeddefender_dataset.csv` dataset, focusing on building a classification model to detect network intrusions. The process covers data preparation, exploratory data analysis, feature engineering, and baseline model development and evaluation.
 
+## Assignment Notebook
+
+[Click here to view the assignment notebook](https://github.com/ojbskvasu/Capastone_CyberThreat_Detection/blob/main/cyberthreat_detection.ipynb)
+
 ### 1. Data Loading
 - The `cyberfeddefender_dataset.csv` file was successfully loaded into a pandas DataFrame. This initial step involved verifying the successful import and a quick glance at the dataset's structure.
 
@@ -44,3 +48,10 @@ This notebook details a comprehensive analysis of  of network intrusion detectio
     - **Precision, Recall, F1-score**: Ranged from 0.46 to 0.48 for both classes.
     - **ROC AUC Score**: 0.47
 - **Visualization**: A Confusion Matrix and an ROC Curve were generated and saved to the `/images` folder, visually confirming the model's performance.
+## How to Run
+
+1. Clone this repository:
+
+   ```bash
+   https://github.com/ojbskvasu/Capastone_CyberThreat_Detection.git
+   ```
